@@ -9,7 +9,8 @@
 
 ###
 
-<img align="left" height="150" src="https://media.tenor.com/Q5dH7srnB6EAAAAi/capoo-bug-cat.gif"  />
+<img align="middle" height="150" src="https://media.tenor.com/Q5dH7srnB6EAAAAi/capoo-bug-cat.gif"  />
+
 
 ###
 
